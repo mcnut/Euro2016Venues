@@ -1,0 +1,2 @@
+MainPackage=C:\Users\adrian\Documents\Visual Studio 2015\Projects\Euro2016Venues\Euro2016Venues\bin\x86\Release\Upload\Euro2016Venues_1.1.1.0_x86.appx
+SymbolPackage=C:\Users\adrian\Documents\Visual Studio 2015\Projects\Euro2016Venues\Euro2016Venues\AppPackages\Euro2016Venues_1.1.1.0\Euro2016Venues_1.1.1.0_x86.appxsym
